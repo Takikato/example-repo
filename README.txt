@@ -1,0 +1,3 @@
+Inventory
+
+The following code will read a text file and will use the information it read to create a table of items, the user has a lot of option to filter that stock or to add new stock to the existing stock or want to find the stock with the highest quantity and more...
